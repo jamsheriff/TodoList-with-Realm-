@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E918578623F8F9AF0040D893 /* Pods_Todoey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F598E9598212C55109C028B /* Pods_Todoey.framework */; };
 		E949A37123F8BE6B00AA7884 /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E949A37023F8BE6B00AA7884 /* SwipeTableViewController.swift */; };
 		E949A37323F8BE8300AA7884 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = E949A37223F8BE8300AA7884 /* Item.swift */; };
 		E949A37523F8BE9700AA7884 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = E949A37423F8BE9700AA7884 /* Category.swift */; };
@@ -17,7 +18,6 @@
 		E9FB1B6823F2454F0076B383 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9FB1B6623F2454F0076B383 /* Main.storyboard */; };
 		E9FB1B6A23F245500076B383 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9FB1B6923F245500076B383 /* Assets.xcassets */; };
 		E9FB1B6D23F245500076B383 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9FB1B6B23F245500076B383 /* LaunchScreen.storyboard */; };
-		FCF673258164EA6D6D916A3B /* Pods_Todoey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F598E9598212C55109C028B /* Pods_Todoey.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,7 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCF673258164EA6D6D916A3B /* Pods_Todoey.framework in Frameworks */,
+				E918578623F8F9AF0040D893 /* Pods_Todoey.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
